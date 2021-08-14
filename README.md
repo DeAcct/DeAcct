@@ -8,10 +8,3 @@
   <li>🌱 I’m currently studying vue!</li>
   <li>📫 <a href="mailto:dynamic1117@gmail.com">dynamic1117@gmail.com</a></li>
 </ul>
-
-一所懸命
-잇쇼켄메이
-(일본어 관용구)
-"한 가지 열심히 한다"
-
-잇쇼켄메이 하는 사람입니다.
