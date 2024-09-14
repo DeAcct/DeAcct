@@ -21,8 +21,6 @@
 
 뚫어왔고, 앞으로 뚫어갈 앞으로의 인생이 기대됩니다.
 
-아, 이 글을 보고계신 인사담당자님과도 함께할 수 있다면 더욱 좋겠네요.
-
 ## 💻 프론트엔드 스택
 <img src="https://img.shields.io/badge/Vue3-%2335495e.svg?style=for-the-badge&logo=Vue.js"/><img src="https://img.shields.io/badge/Typescript-%233178C6.svg?style=for-the-badge&logo=Typescript&logoColor=%23ffffff"/><img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=Sass&logoColor=%23ffffff"/>
 
