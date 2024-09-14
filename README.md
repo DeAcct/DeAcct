@@ -1,13 +1,41 @@
 # 💫 About Me:
-새로운 기술을 자유롭게 흡수하고 확장합니다.<br><br>군복무<br>육군 동대상근(~2025.11.13)<br><br>학력<br>선린인터넷고등학교 멀티미디어과(졸업, 2022.2)<br>부천대학교 디지털미디어디자인과(재학)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=길을%20뚫는%20사람&reversal=false&fontAlign=50&textBg=false&fontColor=ffffff)
+
+새로운 기술을 자유롭게 흡수하고 확장합니다.
+
+## 🧭 SNS
+<a href="https://instagram.com/@lyco.ry">
+  <img src="https://img.shields.io/badge/Instagram@lyco.ry-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=%23ffffff"/>
+</a>
+
+## 💞 취미
+<strong>애니메이션 시청 및 평론(aniphile, 시네필 + 애니메이션)</strong>
+
+작가주의적 애니메이션을 사랑합니다. 작화가 좋은 것과 그림이 예쁜 것은 당연히 다릅니다(중요).
+
+어둠 속에서 바늘구멍으로 들어오는 빛을 찾아가는 듯한 이야기를 좋아합니다.
+
+### 지금까지 본 최고의 애니메이션
+- 페이트 제로
+- 에이티식스
+- 신세기 에반게리온
+- 도망을 잘 치는 도련님
+
+## 🪖 군복무
+육군 동대상근(~2025.11.13)
+
+## 🎓 학력
+- 선린인터넷고등학교 멀티미디어과(졸업, 2022.2)
+- 부천대학교 디지털미디어디자인과(재학)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@lyco.ry) 
+## 💻 프론트엔드 스택
+<img src="https://img.shields.io/badge/Vue3-%2335495e.svg?style=for-the-badge&logo=Vue.js"/><img src="https://img.shields.io/badge/Typescript-%233178C6.svg?style=for-the-badge&logo=Typescript&logoColor=%23ffffff"/><img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=Sass&logoColor=%23ffffff"/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
+## ✒️ 디자인 스택
+<img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe Photoshop&logoColor=%23ffffff"/><img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=Adobe Illustrator&logoColor=%23ffffff"/><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=%23ffffff"/>
+
+## 📊 깃허브 활동
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeAcct&layout=compact&theme=vue-dark" />
 </a>
