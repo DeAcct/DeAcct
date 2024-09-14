@@ -28,9 +28,8 @@
 <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe Photoshop&logoColor=%23ffffff"/><img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=Adobe Illustrator&logoColor=%23ffffff"/><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=%23ffffff"/>
 
 ## 📊 깃허브 활동
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeAcct&layout=compact&theme=vue-dark" />
-</a>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeAcct&layout=compact&theme=vue-dark" />
+
 
 ## 🪖 군복무
 육군 동대상근(~2025.11.13)
