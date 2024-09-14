@@ -13,9 +13,9 @@
 
 전문대학에 진학했고,
 
-신체등급 4급을 받아 사회복무요원(Republic of Korea Army Social Service Personnel) 무한 대기를 했고,
+신체등급 4급을 받아 사회복무요원 무한 대기를 했고,
 
-요즘 사라져간다는 상근예비역(Republic of Korea Army Full-time Reserve Service)에 기적적으로 선발됐고,
+요즘 사라져간다는 상근예비역에 기적적으로 선발됐고,
 
 ...
 
