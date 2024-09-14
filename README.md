@@ -30,7 +30,8 @@
 <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe Photoshop&logoColor=%23ffffff"/><img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=Adobe Illustrator&logoColor=%23ffffff"/><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=%23ffffff"/>
 
 ## 📊 깃허브 활동
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeAcct&layout=compact&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeAcct&layout=donut&theme=transparent&hide=python" />
+
 
 
 ## 🪖 군복무
