@@ -1,7 +1,7 @@
 # 💫 About Me:
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Road-Roller&reversal=false&fontAlign=50&textBg=false&fontColor=ffffff)
 
-길을 뚫으며 살았습니다.
+### 길을 뚫으며 살았습니다.
 
 특성화고등학교를 선택했고,
 
