@@ -1,5 +1,5 @@
 # 💫 About Me:
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Road-Roller&reversal=false&fontAlign=50&textBg=false&fontColor=ffffff)
+<img height="300" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Road-Roller&reversal=false&fontAlign=50&textBg=false&fontColor=ffffff" alt="header">
 
 ### 길을 뚫으며 살았습니다.
 
