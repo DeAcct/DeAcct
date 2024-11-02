@@ -40,7 +40,7 @@
 - 부천대학교 디지털미디어디자인과(재학)
 
 ## 🧭 SNS
-<a href="https://instagram.com/@lyco.ry">
+<a href="https://www.instagram.com/lyco.ry/">
   <img src="https://img.shields.io/badge/Instagram@lyco.ry-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=%23ffffff"/>
 </a>
 
